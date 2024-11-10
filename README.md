@@ -13,3 +13,4 @@ Currently, two official plugins are available:
   - npm install
   - npm install -D tailwindcss postcss autoprefixer
   - npm install gsap @gsap/react
+  - npm install three @react-three/drei @react-three/fiber
